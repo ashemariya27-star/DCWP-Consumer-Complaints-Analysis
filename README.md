@@ -120,7 +120,7 @@ DCWP-Consumer-Complaints-Analysis/
     └── Access through the Google Drive links above
 ```
 
-*The exact file structure may vary depending on how the dataset files are stored in the repository.*
+
 
 ## ✏️ Author
 
